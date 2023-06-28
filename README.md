@@ -1,7 +1,7 @@
 # Linux-Command
 Usefull Commands in Linux 
 
--  ls
+-  [ls Command](ls%20Command.md)
 -  cd
 -  touch
 -  cat
