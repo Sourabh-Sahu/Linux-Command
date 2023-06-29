@@ -2,7 +2,7 @@
 Usefull Commands in Linux 
 
 -  [ls Command](ls%20Command.md)
--  cd
+-  [cd Command](cd%20Command.md)
 -  touch
 -  cat
 -  rm
