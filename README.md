@@ -3,7 +3,7 @@ Usefull Commands in Linux
 
 -  [ls Command](ls%20Command.md)
 -  [cd Command](cd%20Command.md)
--  touch
+-  [touch Command](touch%20Command.md)
 -  cat
 -  rm
 -  mkdir
