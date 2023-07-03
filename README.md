@@ -5,7 +5,7 @@ Usefull Commands in Linux
 -  [cd Command](cd%20Command.md)
 -  [touch Command](touch%20Command.md)
 -  [cat Command](cat%20Command.md)
--  rm
+-  [rm Command](rm%20Command.md)
 -  mkdir
 -  rmdir
 -  System basic commands
