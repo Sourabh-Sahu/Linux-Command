@@ -6,8 +6,8 @@ Usefull Commands in Linux
 -  [touch Command](touch%20Command.md)
 -  [cat Command](cat%20Command.md)
 -  [rm Command](rm%20Command.md)
--  mkdir
--  rmdir
+-  [mkdir Command](mkdir%20Command.md)
+-  [rmdir Command](rmdir%20Command.md)
 -  System basic commands
 -  cp
 -  mv
