@@ -1,4 +1,4 @@
-ir# mkdir Command 
+# mkdir Command 
 
 mkdir   :-  The mkdir command in Linux is used to create directories (folders) within the file system. It allows you to create single directories or multiple directories at once.
 		
