@@ -86,9 +86,9 @@
     man
     ```
 
--	  info									:-						Show Many Detail
+  -	info									:-						Show Many Detail
    
-   	```
+  ```
     info	
     ```
 - 	help									:-						Show Small Detail
