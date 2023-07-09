@@ -10,8 +10,8 @@ Usefull Commands in Linux
 -  [rmdir Command](rmdir%20Command.md)
 -  [System basic Command](System%20basic%20Command.md)
 -  [cp Command](cp%20Command.md)
--  mv
--  Pipes and Redirection
+-  [mv Command](mv%20Command.md)
+-  [Pipes and Redirection Command](Pipes%20and%20Redirection%20Command.md)
 -  Compression tools
 -  Text editors
 -  head
