@@ -12,7 +12,7 @@ Usefull Commands in Linux
 -  [cp Command](cp%20Command.md)
 -  [mv Command](mv%20Command.md)
 -  [Pipes and Redirection Command](Pipes%20and%20Redirection%20Command.md)
--  Compression tools
+-  [Compression Tools Command](Compression%20Tools%20Command.md)
 -  Text editors
 -  head
 -  tail
