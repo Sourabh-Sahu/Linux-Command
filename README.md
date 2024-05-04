@@ -14,13 +14,13 @@ Usefull Commands in Linux
 -  [Pipes and Redirection Command](Pipes%20and%20Redirection%20Command.md)
 -  [Compression Tools Command](Compression%20Tools%20Command.md)
 -  [Vim Text Editors](Vim%20Text%20Editors.md)
--  head
--  tail
--  wc
--  sort
--  watch
--  grep
--  cut
--  paste
--  awk
--  sed
+-  [head Command](head%20Command.md)
+-  [tail Command](tail%20Command.md)
+-  [wc Command](wc%20Command.md)
+-  [sort Command](sort%20Command.md)
+-  [watch Command](watch%20Command.md)
+-  [grep Command](grep%20Command.md)
+-  [cut Command](cut%20Command.md)
+-  [paste Command](paste%20Command.md)
+-  [awk Command](awk%20Command.md)
+-  [sed Command](sed%20Command.md)
