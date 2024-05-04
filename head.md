@@ -1,6 +1,6 @@
 # head command 
 
-	head :-	The head command is a utility used in Unix and Unix-like operating systems to display the beginning lines of a file or input. It is typically used to preview the contents of a file or extract a portion of a file.
+head :-	The head command is a utility used in Unix and Unix-like operating systems to display the beginning lines of a file or input. It is typically used to preview the contents of a file or extract a portion of a file.
 			
 - 	head filename.txt	:-	Display the first 10 lines of a file.
 			
