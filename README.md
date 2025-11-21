@@ -18,7 +18,7 @@ Usefull Commands in Linux
 -  [tail Command](tail%20Command.md)
 -  [wc Command](wc%20Command.md)
 -  [sort Command](sort%20Command.md)
--  [watch Command](watch%20Command.md)
+-  [watch Command](https://github.com/Sourabh-Sahu/Linux-Command/blob/main/watch%20Command.md)
 -  [grep Command](grep%20Command.md)
 -  [cut Command](cut%20Command.md)
 -  [paste Command](paste%20Command.md)
